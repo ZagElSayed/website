@@ -282,7 +282,7 @@ export default function Home() {
 
           <a
             className="button button-primary"
-            href="mailto:zag.elsayed@uc.edu"
+            href="mailto:zag337li@gmail.com"
           >
             Start a Conversation
           </a>
