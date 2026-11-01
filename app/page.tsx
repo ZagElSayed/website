@@ -85,7 +85,7 @@ export default function Home() {
             </h1>
 
             <p className="hero-description">
-              I am Zag ElSayed, an interdisciplinary researcher and educator
+              I am Zag ElSayed, Ph.D., SMIEEE, an Associate Professor and interdisciplinary researcher
               advancing artificial intelligence, brain-computer interfaces,
               clinical neuroinformatics, cognitive cybersecurity, and
               sustainable computing.
@@ -119,6 +119,8 @@ export default function Home() {
             <div className="hero-card-divider" />
 
             <p className="hero-card-meta">
+              Associate Professor, School of Information Technology
+              <br />
               University of Cincinnati
               <br />
               Cincinnati Children&apos;s Research Affiliate
